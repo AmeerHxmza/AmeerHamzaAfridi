@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AMEER HAMZA</h1>
-<h3 align="center">I'm 2nd-year Software Engineering student aspiring to be a Full Stack Mobile App Developer. Currently, I'm diving into Jetpack Compose and Kotlin Multiplatform (KMP) to craft sleek mobile experiences.</h3>
+<h3 align="center">I'm 3rd-year Software Engineering student aspiring to be a Full Stack Mobile App Developer. Currently, I'm diving into Jetpack Compose and Kotlin Multiplatform (KMP) to craft sleek mobile experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameerhamzaafridi&label=Profile%20views&color=0e75b6&style=flat" alt="ameerhamzaafridi" /> </p>
 
