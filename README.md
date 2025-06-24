@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AMEER HAMZA</h1>
-<h3 align="center">I'm 3rd-year Software Engineering student aspiring to be a Full Stack Mobile App Developer. Currently, I'm diving into Jetpack Compose and Kotlin Multiplatform (KMP) to craft sleek mobile experiences.</h3>
+<h3 align="center">I'm a Software Engineering student at MUST University AJK, Pakistan. Currently, I'm focused on Flutter development and Agentic AI Engineering using tools like LangChain, CrewAI, and Langflow.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameerhamzaafridi&label=Profile%20views&color=0e75b6&style=flat" alt="ameerhamzaafridi" /> </p>
 
@@ -11,9 +11,36 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+<p align="left"> 
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
+  </a> 
+  <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="40" height="40"/> 
+  </a> 
+  <a href="https://langchain.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="langchain" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.langflow.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/130180013?s=200&v=4" alt="langflow" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.crew.ai/" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/151694843?s=200&v=4" alt="crew ai" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+  </a> 
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ameerhamzaafridi&show_icons=true&locale=en&layout=compact" alt="ameerhamzaafridi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ameerhamzaafridi&show_icons=true&locale=en" alt="ameerhamzaafridi" /></p>
-
