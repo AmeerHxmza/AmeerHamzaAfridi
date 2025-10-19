@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/ameer-hamza-027a59293" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ameer Hamza LinkedIn" height="30" width="40" />
   </a>
-  <a href="mailto:ameerhamzaafridi@gmail.com" target="_blank">
+  <a href="mailto:hxmzadev@gmail.com" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="30" width="40" />
   </a>
 </p>
@@ -58,11 +58,6 @@
 - LangSmith  
 - OpenAI API / Gemini API  
 - Vector Databases (Pinecone, Chroma)
-
----
-
-### 📊 GitHub Stats
-<p align="center"> <a href="https://github.com/ameerhamzaafridi"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameerhamzaafridi&layout=compact&theme=react&hide_border=true" alt="Top Languages" height="165" /> </a> <a href="https://github.com/ameerhamzaafridi"> <img src="https://github-readme-stats.vercel.app/api?username=ameerhamzaafridi&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" /> </a> </p>
 
 ---
 
