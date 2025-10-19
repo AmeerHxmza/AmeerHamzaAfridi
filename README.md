@@ -62,12 +62,7 @@
 ---
 
 ### 📊 GitHub Stats
-
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ameerhamzaafridi&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ameerhamzaafridi&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p align="center"> <a href="https://github.com/ameerhamzaafridi"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameerhamzaafridi&layout=compact&theme=react&hide_border=true" alt="Top Languages" height="165" /> </a> <a href="https://github.com/ameerhamzaafridi"> <img src="https://github-readme-stats.vercel.app/api?username=ameerhamzaafridi&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" /> </a> </p>
 
 ---
 
