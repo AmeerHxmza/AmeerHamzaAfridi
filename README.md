@@ -14,7 +14,7 @@
 - 🧠 Exploring **Generative AI, LangChain, CrewAI, and Agentic AI Systems**
 - 🛠 Building **AI-powered applications** using MERN + Next.js
 - 🌍 Open to **freelance projects** and **remote opportunities**
-- 📩 Reach me at **ameerhamzaafridi@gmail.com**
+- 📩 Reach me at **hxmzadev@gmail.com**
 - 🌐 Portfolio: *Coming Soon...*
 
 ---
